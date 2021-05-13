@@ -36,4 +36,4 @@
 ------
 
 ### 项目展示
-![snake 图标](http://static.runoob.com/images/runoob-logo.png)
+![snake 图标](https://github.com/senyucci/GreedySnake/blob/main/GreedySnake.png)
